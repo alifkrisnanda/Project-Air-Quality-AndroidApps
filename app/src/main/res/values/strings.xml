@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kualitas Udara App</string>
+    <string name="air_quality_monitor">Air Quality Monitor</string>
+    <string name="suhu">35°</string>
+    <string name="kelembaban">66%</string>
+    <string name="karbon">148 PPB</string>
+    <string name="logosuhu">TODO</string>
+    <string name="suhu_textview">Suhu</string>
+    <string name="suhu_output">22°</string>
+    <string name="kelembaban_output">43%</string>
+    <string name="kualitas_udara_unnes">Kualitas Udara UNNES</string>
+    <string name="debu">Debu</string>
+    <string name="karbon_monoksida">Karbon Monoksida</string>
+    <string name="kelembaban_view">Kelembaban</string>
+    <string name="logo_aplikasi">logo_aplikasi</string>
+    <string name="designed_by_alif_krisnanda">Designed by Alif Krisnanda</string>
+    <string name="my_kualitas_udara_unnes">My Kualitas Udara UNNES</string>
+</resources>
